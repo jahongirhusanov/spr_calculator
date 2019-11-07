@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6981" started-at="2019-11-07T01:00:35Z" finished-at="2019-11-07T01:00:42Z">
+    <groups>
+    </groups>
+    <test name="Validating User login" duration-ms="6981" started-at="2019-11-07T01:00:35Z" finished-at="2019-11-07T01:00:42Z">
+      <class name="OLB.SPR_Calculator">
+        <test-method status="PASS" signature="launchBrowser_URL()[pri:0, instance:OLB.SPR_Calculator@31304f14]" name="launchBrowser_URL" duration-ms="5521" started-at="2019-11-06T19:00:35Z" finished-at="2019-11-06T19:00:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser_URL -->
+        <test-method status="PASS" signature="validateHomePage()[pri:0, instance:OLB.SPR_Calculator@31304f14]" name="validateHomePage" duration-ms="348" started-at="2019-11-06T19:00:41Z" finished-at="2019-11-06T19:00:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="calculateArea_A()[pri:0, instance:OLB.SPR_Calculator@31304f14]" name="calculateArea_A" duration-ms="454" started-at="2019-11-06T19:00:41Z" finished-at="2019-11-06T19:00:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateArea_A -->
+        <test-method status="PASS" signature="calculateArea_B()[pri:0, instance:OLB.SPR_Calculator@31304f14]" name="calculateArea_B" duration-ms="313" started-at="2019-11-06T19:00:41Z" finished-at="2019-11-06T19:00:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateArea_B -->
+        <test-method status="PASS" signature="calculateArea_whole()[pri:0, instance:OLB.SPR_Calculator@31304f14]" name="calculateArea_whole" duration-ms="328" started-at="2019-11-06T19:00:42Z" finished-at="2019-11-06T19:00:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateArea_whole -->
+      </class> <!-- OLB.SPR_Calculator -->
+    </test> <!-- Validating User login -->
+  </suite> <!-- Suite -->
+</testng-results>

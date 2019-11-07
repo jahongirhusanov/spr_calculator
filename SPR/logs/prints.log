@@ -1,0 +1,6 @@
+18:45:00.951 [main] INFO  OLB.SPR_Calculator - Navigated to Room size calculator page
+18:45:01.112 [main] INFO  OLB.SPR_Calculator - Landed and expected textMsgValue
+18:45:01.113 [main] ERROR OLB.SPR_Calculator - Fail on landing
+19:00:41.183 [main] INFO  OLB.SPR_Calculator - Navigated to Room size calculator page
+19:00:41.536 [main] INFO  OLB.SPR_Calculator - Landed and expected textMsgValue
+19:00:41.537 [main] ERROR OLB.SPR_Calculator - Fail on landing
